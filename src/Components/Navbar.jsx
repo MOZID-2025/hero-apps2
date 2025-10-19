@@ -12,9 +12,7 @@ const Navbar = () => {
 
   return (
     <div className="max-w-[1280px] mx-auto navbar bg-base-100">
-      {/* Navbar Start */}
       <div className="navbar-start">
-        {/* Mobile Dropdown */}
         <div className="dropdown">
           <div tabIndex={0} className="btn btn-ghost lg:hidden">
             <svg
@@ -53,7 +51,6 @@ const Navbar = () => {
           </ul>
         </div>
 
-        {/* Logo */}
         <Link
           to="/"
           className="text-xl flex gap-2 font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#632EE3] to-[#9F62F2]"
@@ -62,7 +59,6 @@ const Navbar = () => {
         </Link>
       </div>
 
-      {/* Navbar Center (Desktop Menu) */}
       <div className="navbar-center">
         <ul className="menu menu-horizontal px-1 hidden lg:flex text-[18px] gap-4">
           {links.map((link) => (
@@ -70,7 +66,7 @@ const Navbar = () => {
               <NavLink
                 to={link.path}
                 className={({ isActive }) =>
-                  `px-3 py-1 rounded-md transition-all duration-300 ${
+                  `px-3 py-1 transition-all duration-300 ${
                     isActive ? "underline underline-offset-4" : ""
                   } hover:text-[#632EE3]`
                 }
@@ -82,7 +78,6 @@ const Navbar = () => {
         </ul>
       </div>
 
-      {/* Navbar End */}
       <div className="navbar-end">
         <NavLink
           to="https://github.com/MOZID-2025"
