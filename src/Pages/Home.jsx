@@ -26,14 +26,18 @@ const Home = () => {
         </p>
       </div>
       <div className="flex gap-3 items-center justify-center mt-8">
-        <button className="btn">
-          <img src={playstore} alt="" /> Google Play
-        </button>
-        <button className="btn">
-          {" "}
-          <img src={appstore} alt="" />
-          App Store
-        </button>
+        <Link to={"https://play.google.com/store/games?hl=en&pli=1"}>
+          <button className="btn">
+            <img src={playstore} alt="" /> Google Play
+          </button>
+        </Link>
+        <Link to={"https://www.apple.com/app-store/"}>
+          <button className="btn">
+            {" "}
+            <img src={appstore} alt="" />
+            App Store
+          </button>
+        </Link>
       </div>
       <div className="">
         <img className="mx-auto mt-6" src={hero} alt="" />

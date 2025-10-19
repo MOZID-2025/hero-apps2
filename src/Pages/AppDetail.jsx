@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 import { Link, useParams } from "react-router";
 import { RiDownload2Line } from "react-icons/ri";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css"; // import styles
 import like from ".././assets/like.png";
 import star from ".././assets/star.png";
 import useApps from "../../../hero-apps1/src/Hooks/useApp";
@@ -33,7 +35,10 @@ const AppDetail = () => {
 
   const handleAddToInstall = (e) => {
     e.preventDefault();
-    if (isInstalled) return;
+    if (isInstalled) {
+      toast.info("App is already installed!"); // show toast if already installed
+      return;
+    }
 
     const existingList = JSON.parse(localStorage.getItem("install")) || [];
     const alreadyInstalled = existingList.some((item) => item.id === app.id);
@@ -42,6 +47,7 @@ const AppDetail = () => {
       const updatedList = [...existingList, app];
       localStorage.setItem("install", JSON.stringify(updatedList));
       setIsInstalled(true);
+      toast.success(`${title} installed successfully!`);
     }
   };
 
@@ -101,6 +107,8 @@ const AppDetail = () => {
         <h2 className="text-2xl font-bold">Description</h2>
         <p>{description}</p>
       </div>
+
+      <ToastContainer position="top-right" autoClose={3000} />
     </div>
   );
 };
