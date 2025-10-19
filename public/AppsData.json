@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Bluetooth Headphones",
+    "companyName": "AudioTech",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 250,
+    "reviews": 120,
+    "ratingAvg": 4.5,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 2 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 10 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 53 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Smartphone Stand",
+    "companyName": "TechGear",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 150,
+    "reviews": 85,
+    "ratingAvg": 4.2,
+    "downloads": 20,
+    "ratings": [
+      { "name": "1 star", "count": 1 },
+      { "name": "2 star", "count": 3 },
+      { "name": "3 star", "count": 15 },
+      { "name": "4 star", "count": 30 },
+      { "name": "5 star", "count": 36 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Wireless Mouse",
+    "companyName": "ClickMaster",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 100,
+    "reviews": 200,
+    "ratingAvg": 4.7,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 6 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 70 },
+      { "name": "5 star", "count": 100 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Laptop Sleeve",
+    "companyName": "ProtectPro",
+    "description": "PIn addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 200,
+    "reviews": 60,
+    "ratingAvg": 4.3,
+    "downloads": 80,
+    "ratings": [
+      { "name": "1 star", "count": 2 },
+      { "name": "2 star", "count": 4 },
+      { "name": "3 star", "count": 10 },
+      { "name": "4 star", "count": 25 },
+      { "name": "5 star", "count": 19 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Portable Charger",
+    "companyName": "PowerUp",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 300,
+    "reviews": 150,
+    "ratingAvg": 4.6,
+    "downloads": 40,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 7 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 60 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Bluetooth Speaker",
+    "companyName": "SoundWave",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 350,
+    "reviews": 180,
+    "ratingAvg": 4.4,
+    "downloads": 30,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 70 },
+      { "name": "5 star", "count": 65 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Smart Watch",
+    "companyName": "FitTrack",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 250,
+    "reviews": 130,
+    "ratingAvg": 4.5,
+    "downloads": 20,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 15 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 57 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "USB-C Cable",
+    "companyName": "ChargePro",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 50,
+    "reviews": 220,
+    "ratingAvg": 4.8,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 2 },
+      { "name": "2 star", "count": 3 },
+      { "name": "3 star", "count": 15 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 150 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Wireless Charger",
+    "companyName": "ChargeMaster",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 200,
+    "reviews": 110,
+    "ratingAvg": 4.3,
+    "downloads": 28,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 6 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 40 },
+      { "name": "5 star", "count": 40 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Phone Case",
+    "companyName": "CaseMate",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 100,
+    "reviews": 90,
+    "ratingAvg": 4.6,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 2 },
+      { "name": "2 star", "count": 3 },
+      { "name": "3 star", "count": 10 },
+      { "name": "4 star", "count": 35 },
+      { "name": "5 star", "count": 40 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Gaming Mouse",
+    "companyName": "GameGear",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 150,
+    "reviews": 160,
+    "ratingAvg": 4.7,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 72 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Webcam",
+    "companyName": "ClearView",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 180,
+    "reviews": 140,
+    "ratingAvg": 4.4,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 48 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Desk Lamp",
+    "companyName": "LightBright",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 120,
+    "reviews": 75,
+    "ratingAvg": 4.5,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 2 },
+      { "name": "2 star", "count": 3 },
+      { "name": "3 star", "count": 10 },
+      { "name": "4 star", "count": 30 },
+      { "name": "5 star", "count": 30 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "External Hard Drive",
+    "companyName": "DataVault",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 500,
+    "reviews": 100,
+    "ratingAvg": 4.6,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 15 },
+      { "name": "4 star", "count": 40 },
+      { "name": "5 star", "count": 37 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Mechanical Keyboard",
+    "companyName": "KeyMasters",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 600,
+    "reviews": 150,
+    "ratingAvg": 4.7,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 6 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 70 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Laptop Stand",
+    "companyName": "DeskPro",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 200,
+    "reviews": 95,
+    "ratingAvg": 4.5,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 2 },
+      { "name": "2 star", "count": 3 },
+      { "name": "3 star", "count": 15 },
+      { "name": "4 star", "count": 35 },
+      { "name": "5 star", "count": 40 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Portable Projector",
+    "companyName": "VisionTech",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 450,
+    "reviews": 85,
+    "ratingAvg": 4.3,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 15 },
+      { "name": "4 star", "count": 30 },
+      { "name": "5 star", "count": 32 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "VR Headset",
+    "companyName": "ImmersiOn",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 700,
+    "reviews": 120,
+    "ratingAvg": 4.6,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 45 },
+      { "name": "5 star", "count": 47 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Noise Cancelling Earbuds",
+    "companyName": "QuietTone",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 150,
+    "reviews": 140,
+    "ratingAvg": 4.5,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 6 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 60 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Smart Thermostat",
+    "companyName": "HomeSmart",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 100,
+    "reviews": 95,
+    "ratingAvg": 4.4,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 2 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 15 },
+      { "name": "4 star", "count": 40 },
+      { "name": "5 star", "count": 33 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Smart Light Bulb",
+    "companyName": "BrightHome",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 50,
+    "reviews": 120,
+    "ratingAvg": 4.6,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 2 },
+      { "name": "2 star", "count": 3 },
+      { "name": "3 star", "count": 15 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 50 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Laptop Backpack",
+    "companyName": "CarryPro",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 400,
+    "reviews": 110,
+    "ratingAvg": 4.5,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 40 },
+      { "name": "5 star", "count": 42 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Desk Organizer",
+    "companyName": "TidyDesk",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 100,
+    "reviews": 70,
+    "ratingAvg": 4.3,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 2 },
+      { "name": "2 star", "count": 3 },
+      { "name": "3 star", "count": 15 },
+      { "name": "4 star", "count": 25 },
+      { "name": "5 star", "count": 25 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Action Camera",
+    "companyName": "AdventureCam",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 250,
+    "reviews": 150,
+    "ratingAvg": 4.6,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 62 }
+    ]
+  },
+  {
+    "id": 25,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Tablet",
+    "companyName": "TabWorld",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 600,
+    "reviews": 130,
+    "ratingAvg": 4.5,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 52 }
+    ]
+  },
+  {
+    "id": 26,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Portable Monitor",
+    "companyName": "ViewPro",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 700,
+    "reviews": 100,
+    "ratingAvg": 4.4,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 2 },
+      { "name": "2 star", "count": 4 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 35 },
+      { "name": "5 star", "count": 39 }
+    ]
+  },
+  {
+    "id": 27,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Graphic Tablet",
+    "companyName": "DrawTech",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 500,
+    "reviews": 110,
+    "ratingAvg": 4.5,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 2 },
+      { "name": "2 star", "count": 3 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 45 },
+      { "name": "5 star", "count": 40 }
+    ]
+  },
+  {
+    "id": 28,
+    "image": "https://m.media-amazon.com/images/I/612J+kP8tUL.jpg",
+    "title": "Smart Home Hub",
+    "companyName": "HomeControl",
+    "description": "In addition to basic details, each product includes a comprehensive ratings breakdown, showing how users rated the product across five levels — from 1 star to 5 stars. This allows for accurate visualization of customer satisfaction trends. For example, products like “Wireless Mouse” and “Mechanical Keyboard” have a higher proportion of 5-star reviews, indicating strong customer approval, while others show more balanced distributions across rating categories.",
+    "size": 200,
+    "reviews": 120,
+    "ratingAvg": 4.6,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 42 }
+    ]
+  }
+]
