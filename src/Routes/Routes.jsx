@@ -5,7 +5,6 @@ import Home from "../Pages/Home";
 import MainLayout from "../Layouts/MainLayout";
 import ErrorPage from "../Pages/ErrorPage";
 import Installation from "../Pages/Installation";
-import AppsDetails from "../../../hero-apps1/src/Pages/AppsDetails";
 import AppDetail from "../Pages/AppDetail";
 import ErrorApp from "../Pages/ErrorApp";
 const router = createBrowserRouter([

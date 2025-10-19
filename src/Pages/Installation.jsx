@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { IoStar } from "react-icons/io5";
 import { PiDownloadSimpleBold } from "react-icons/pi";
-import toast, { Toaster } from "react-hot-toast"; // ✅ import toast
+import toast, { Toaster } from "react-hot-toast";
 
 const Installation = () => {
   const [installation, setInstallation] = useState([]);
@@ -12,13 +12,11 @@ const Installation = () => {
     if (saveList) setInstallation(saveList);
   }, []);
 
-  // 🔹 handle uninstall
   const handleUninstall = (id) => {
     const updatedList = installation.filter((app) => app.id !== id);
     setInstallation(updatedList);
     localStorage.setItem("install", JSON.stringify(updatedList));
 
-    // 🔹 show toast
     toast.success("App uninstalled successfully!");
   };
 
@@ -34,7 +32,6 @@ const Installation = () => {
 
   return (
     <div>
-      {/* 🔹 Toaster component */}
       <Toaster position="top-right" reverseOrder={false} />
 
       <div className="text-center mt-10">
