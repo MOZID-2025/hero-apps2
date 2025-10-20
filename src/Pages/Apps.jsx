@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import AppsCard from "../Components/AppsCard";
-import useApps from "../../../hero-apps1/src/Hooks/useApp";
+import useApps from "../Hooks/useApps";
 
 const Apps = () => {
   const { apps } = useApps();

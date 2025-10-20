@@ -5,7 +5,7 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css"; // import styles
 import like from ".././assets/like.png";
 import star from ".././assets/star.png";
-import useApps from "../../../hero-apps1/src/Hooks/useApp";
+import useApps from "../Hooks/useApps";
 import RatingChart from "../Components/RatingChart";
 
 const AppDetail = () => {
