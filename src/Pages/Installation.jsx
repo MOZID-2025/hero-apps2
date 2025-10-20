@@ -31,7 +31,7 @@ const Installation = () => {
   })();
 
   return (
-    <div>
+    <div className="bg-[#F5F5F5] pt-5">
       <Toaster position="top-right" reverseOrder={false} />
 
       <div className="text-center mt-10">
@@ -65,11 +65,15 @@ const Installation = () => {
         {sortedItem.map((a) => (
           <div
             key={a.id}
-            className="max-w-[1280px] mx-auto flex justify-between items-center card card-side bg-base-100 shadow-sm border my-4"
+            className="max-w-[1280px] mx-auto flex justify-between items-center bg-white card card-side shadow-sm my-4"
           >
             <div className="flex items-center">
               <div>
-                <img className="w-40 h-40" src={a.image} alt={a.title} />
+                <img
+                  className="w-40 h-40 p-2 rounded-xl"
+                  src={a.image}
+                  alt={a.title}
+                />
               </div>
               <div>
                 <h2 className="card-title mb-4">{a.title}</h2>
